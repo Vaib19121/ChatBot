@@ -20,10 +20,7 @@ To use the chatbot, you need to open the app and then type in your question. The
 To contribute to the chatbot, you need to fork the repository and then clone it to your local machine. You can then make changes to the code and then push it to your forked repository. You can then create a pull request to the main repository.
 
 ###### Download the app here 
-[Download App](https://github.com/Vaib19121/ChatBot/blob/master/ChatBotcom.chatbotv1.0.apk "download")
+    [Download App](ChatBotcom.chatbotv1.0.apk)
 
 ###### Demo
-=======
-<p align="center">
-  <embed type="video/webm" src="./Client/assets/Record_2023-01-27-09-54-32_0a4755225365aba39760dc2a4acabe35.mp4" width="400" height="300">
-</p>
+    [Video](Client/assets/Record_2023-01-27-09-54-32_0a4755225365aba39760dc2a4acabe35.mp4)
