@@ -25,5 +25,5 @@ To contribute to the chatbot, you need to fork the repository and then clone it 
 ###### Demo
 =======
 <p align="center">
-  <img width="250" src="./Client/assets/Record_2023-01-27-09-54-32_0a4755225365aba39760dc2a4acabe35.mp4">
+  <embed type="video/webm" src="./Client/assets/Record_2023-01-27-09-54-32_0a4755225365aba39760dc2a4acabe35.mp4" width="400" height="300">
 </p>
