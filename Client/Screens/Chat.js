@@ -48,7 +48,7 @@ export default function Chat() {
   }
   const sendResponseToAi = async (text,Model,Temperature) => {
     setLoading(true);
-    const response = await fetch('http://192.168.43.235:3040/', {
+    const response = await fetch('https://chatbot-server-o3pe.onrender.com/', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',

@@ -1,6 +1,6 @@
 const initialState = {
     darkMode: false,
-    Temperature: 0,
+    Temperature: 0.5,
     Model: 'text-davinci-003',
   };
   const Config_Reducer = (state = initialState, action) => {

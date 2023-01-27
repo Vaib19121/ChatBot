@@ -1,5 +1,6 @@
-import {View, Text, StyleSheet, Slider, Switch, Image} from 'react-native';
+import {View, Text, StyleSheet, Switch, Image} from 'react-native';
 import React from 'react';
+import Slider from '@react-native-community/slider';
 import {SelectList} from 'react-native-dropdown-select-list';
 import {useSelector, useDispatch} from 'react-redux';
 import {
@@ -32,6 +33,7 @@ export default function ConfigurationScreen() {
         <SelectList
           setSelected={value => dispatch(set_model(value))}
           data={data}
+          defaultOption={data[0]}
           save="value"
           boxStyles={{width: 200}}
           inputStyles={{color: darkMode ? 'white' : '#181818'}}
