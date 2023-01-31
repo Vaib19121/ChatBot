@@ -23,4 +23,6 @@ To contribute to the chatbot, you need to fork the repository and then clone it 
 https://github.com/Vaib19121/ChatBot/raw/master/ChatBotcom.chatbotv1.0.apk
 
 ###### Demo
-![Video](Client/assets/Record_2023-01-27-09-54-32_0a4755225365aba39760dc2a4acabe35.mp4)
+<p align="center">
+  <img width="250" src="./Client/assets/Record-2023-01-27-09-54-32-0a475.gif">
+</p>
